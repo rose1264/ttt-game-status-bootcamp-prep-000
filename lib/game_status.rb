@@ -38,4 +38,5 @@ def winner(board)
     return board[winning_combo[0]]
   else
     return nil
+  end
 end

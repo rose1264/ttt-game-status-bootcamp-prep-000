@@ -14,3 +14,23 @@ WIN_COMBINATIONS = [
   [0,4,8],
   [2,4,6]
 ]
+
+def won?(board)
+  
+end
+
+def full?(board)
+
+end
+
+def draw?(board)
+
+end
+
+def over?(board)
+
+end
+
+def winner(board)
+
+end
